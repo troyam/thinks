@@ -1,0 +1,1022 @@
+? Sat Dec 31 2022 23:41:05 GMT+0000 (Coordinated Universal Time) Troyam > search inimigo
+470:11
+ {
+  confidence: 0.00014467592592592592,
+  index: 126,
+  hash: '9bac23d4f5c6c5b67e7aead94a8f4971bd5b17c881a4eac4a6612b43d654eab6',
+  prevHash: '0f4228537fbab2b687d02fa806e3ce67107fe3acce146b0eb9b142c29ad34681',
+  lastEdit: 1672529612885,
+  data: 'Quando todos te condenarquando ninguém te escutar Ele escuta e perdoa, pois Ele é Jesus perdão! Quando todos te abandonar e ninguém te queira ver Ele te segue e procura pois Jesus é compreender! Quando todos te negarem um carinho, um beijo, um olhar, Ele te ampara e acarinha pois ser de Jesus é sempre se doar.Hei, Ele se doou por você, por nós, então vamos fazer a nossa parte Evangelizando.',
+  text: [
+    'padr',
+    'marcelo',
+    'rossi',
+    '0f4228537fbab2b687d02fa806e3ce67107fe3acce146b0eb9b142c29ad34681',
+    '9bac23d4f5c6c5b67e7aead94a8f4971bd5b17c881a4eac4a6612b43d654eab6',
+    '"Quando todos te condenarquando ninguém te escutar Ele escuta e perdoa, pois Ele é Jesus perdão! Quando todos te abandonar e ninguém te queira ver Ele te segue e procura pois Jesus é compreender! Quando todos te negarem um carinho, um beijo, um olhar, Ele te ampara e acarinha pois ser de Jesus é sempre se doar.Hei, Ele se doou por você, por nós, então vamos fazer a nossa parte Evangelizando."'
+  ],
+  match: '\nPadre Marcelo Rossi\n'
+}
+
+       (       )     )          *     
+  '   )) ) ( /(  ( /(  (     (  '    
+ ")  /(()/( )()) )()) )    )))(   
+ ( )(_)/(_)((_) ((_)((((_)( ((_)()  
+(_(_()(_))   ((___ ((_) _ )(_()((_) 
+|_   _| _  / _   / (_)_(_|  /  | 
+  | | |   /| (_)  V / / _  | |/| | 
+  |_| |_|_ ___/ |_| /_/ _|_|  |_| 
+                                      
+
+                                           
+
+472:11
+ {
+  match: '\nPadre Marcelo Rossi\n',
+  result: 'Quando todos te condenarquando ninguém te escutar Ele escuta e perdoa, pois Ele é Jesus perdão! Quando todos te abandonar e ninguém te queira ver Ele te segue e procura pois Jesus é compreender! Quando todos te negarem um carinho, um beijo, um olhar, Ele te ampara e acarinha pois ser de Jesus é sempre se doar.Hei, Ele se doou por você, por nós, então vamos fazer a nossa parte Evangelizando.',
+  confidence: 0.00014467592592592592,
+  classifications: undefined,
+  bias: 0.9998553240740741
+}
+
+       (       )     )          *     
+  '   )) ) ( /(  ( /(  (     (  '    
+ ")  /(()/( )()) )()) )    )))(   
+ ( )(_)/(_)((_) ((_)((((_)( ((_)()  
+(_(_()(_))   ((___ ((_) _ )(_()((_) 
+|_   _| _  / _   / (_)_(_|  /  | 
+  | | |   /| (_)  V / / _  | |/| | 
+  |_| |_|_ ___/ |_| /_/ _|_|  |_| 
+                                      
+
+                                           
+
+? Sat Dec 31 2022 23:41:15 GMT+0000 (Coordinated Universal Time) Troyam > search experiencia
+? Sat Dec 31 2022 23:41:15 GMT+0000 (Coordinated Universal Time) Troyam > search experiencia
+470:11
+ {
+  confidence: 0.004629629629629629,
+  index: 4,
+  hash: '429009230e25c52d34134af7936a562326259dcaa96fa88328089e36c8361fba',
+  prevHash: '03cb08f2eb561b7682bc35c93e29124e980023576b023f274936cf93c4a979f5',
+  lastEdit: 1672529612824,
+  data: "Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito, para que todo aquele que n'Ele crê não pereça, mas tenha a vida eterna.",
+  text: [
+    'jesu',
+    'cristo',
+    '03cb08f2eb561b7682bc35c93e29124e980023576b023f274936cf93c4a979f5',
+    '429009230e25c52d34134af7936a562326259dcaa96fa88328089e36c8361fba',
+    `"Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito, para que todo aquele que n'Ele crê não pereça, mas tenha a vida eterna."`
+  ],
+  match: '\nJesus Cristo\n'
+}
+
+       (       )     )          *     
+  '   )) ) ( /(  ( /(  (     (  '    
+ ")  /(()/( )()) )()) )    )))(   
+ ( )(_)/(_)((_) ((_)((((_)( ((_)()  
+(_(_()(_))   ((___ ((_) _ )(_()((_) 
+|_   _| _  / _   / (_)_(_|  /  | 
+  | | |   /| (_)  V / / _  | |/| | 
+  |_| |_|_ ___/ |_| /_/ _|_|  |_| 
+                                      
+
+                                           
+
+472:11
+ {
+  match: '\nJesus Cristo\n',
+  result: "Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito, para que todo aquele que n'Ele crê não pereça, mas tenha a vida eterna.",
+  confidence: 0.004629629629629629,
+  classifications: undefined,
+  bias: 0.9953703703703703
+}
+
+       (       )     )          *     
+  '   )) ) ( /(  ( /(  (     (  '    
+ ")  /(()/( )()) )()) )    )))(   
+ ( )(_)/(_)((_) ((_)((((_)( ((_)()  
+(_(_()(_))   ((___ ((_) _ )(_()((_) 
+|_   _| _  / _   / (_)_(_|  /  | 
+  | | |   /| (_)  V / / _  | |/| | 
+  |_| |_|_ ___/ |_| /_/ _|_|  |_| 
+                                      
+
+                                           
+
+? Sat Dec 31 2022 23:41:25 GMT+0000 (Coordinated Universal Time) Troyam > search deus
+? Sat Dec 31 2022 23:41:25 GMT+0000 (Coordinated Universal Time) Troyam > search deus
+470:11
+ {
+  confidence: 0.00014467592592592592,
+  index: 82,
+  hash: 'af9a8411787cc7612b6d18ae1abf5da17017650f088b8fe17db17607c1f3b152',
+  prevHash: '4c5f69f5cf9b222270a023fc21b668499d3df1ef909a5c28aab02afef6944f87',
+  lastEdit: 1672529612873,
+  data: 'O amor nunca falha, havendo profecias serão aniquiladas, havendo ciências cessarão.',
+  text: [
+    'jesu',
+    'cristo',
+    '4c5f69f5cf9b222270a023fc21b668499d3df1ef909a5c28aab02afef6944f87',
+    'af9a8411787cc7612b6d18ae1abf5da17017650f088b8fe17db17607c1f3b152',
+    '"O amor nunca falha, havendo profecias serão aniquiladas, havendo ciências cessarão."'
+  ],
+  match: '\nJesus Cristo\n'
+}
+
+       (       )     )          *     
+  '   )) ) ( /(  ( /(  (     (  '    
+ ")  /(()/( )()) )()) )    )))(   
+ ( )(_)/(_)((_) ((_)((((_)( ((_)()  
+(_(_()(_))   ((___ ((_) _ )(_()((_) 
+|_   _| _  / _   / (_)_(_|  /  | 
+  | | |   /| (_)  V / / _  | |/| | 
+  |_| |_|_ ___/ |_| /_/ _|_|  |_| 
+                                      
+
+                                           
+
+472:11
+ {
+  match: '\nJesus Cristo\n',
+  result: 'O amor nunca falha, havendo profecias serão aniquiladas, havendo ciências cessarão.',
+  confidence: 0.00014467592592592592,
+  classifications: undefined,
+  bias: 0.9998553240740741
+}
+
+       (       )     )          *     
+  '   )) ) ( /(  ( /(  (     (  '    
+ ")  /(()/( )()) )()) )    )))(   
+ ( )(_)/(_)((_) ((_)((((_)( ((_)()  
+(_(_()(_))   ((___ ((_) _ )(_()((_) 
+|_   _| _  / _   / (_)_(_|  /  | 
+  | | |   /| (_)  V / / _  | |/| | 
+  |_| |_|_ ___/ |_| /_/ _|_|  |_| 
+                                      
+
+                                           
+
+? Sat Dec 31 2022 23:41:40 GMT+0000 (Coordinated Universal Time) Troyam > search noticia
+? Sat Dec 31 2022 23:41:40 GMT+0000 (Coordinated Universal Time) Troyam > search noticia
+470:11
+ {
+  confidence: 0.004629629629629629,
+  index: 302,
+  hash: '5a6326ce7c42183255edc9c559e5f840f8597ea5b96b7ec51ebe5c462714692a',
+  prevHash: '40ea9284f30e2b9fac02b6008e257381fa840534d1a57f393bf40f9711841393',
+  lastEdit: 1672529612906,
+  data: '⁠Parem de se inspirar em líderes: Sejam imitadores de Cristo!',
+  text: [
+    'billi',
+    'graham',
+    '40ea9284f30e2b9fac02b6008e257381fa840534d1a57f393bf40f9711841393',
+    '5a6326ce7c42183255edc9c559e5f840f8597ea5b96b7ec51ebe5c462714692a',
+    '"⁠Parem de se inspirar em líderes: Sejam imitadores de Cristo!"'
+  ],
+  match: '\nBilly Graham\n'
+}
+
+       (       )     )          *     
+  '   )) ) ( /(  ( /(  (     (  '    
+ ")  /(()/( )()) )()) )    )))(   
+ ( )(_)/(_)((_) ((_)((((_)( ((_)()  
+(_(_()(_))   ((___ ((_) _ )(_()((_) 
+|_   _| _  / _   / (_)_(_|  /  | 
+  | | |   /| (_)  V / / _  | |/| | 
+  |_| |_|_ ___/ |_| /_/ _|_|  |_| 
+                                      
+
+                                           
+
+472:11
+ {
+  match: '\nBilly Graham\n',
+  result: '⁠Parem de se inspirar em líderes: Sejam imitadores de Cristo!',
+  confidence: 0.004629629629629629,
+  classifications: undefined,
+  bias: 0.9953703703703703
+}
+
+       (       )     )          *     
+  '   )) ) ( /(  ( /(  (     (  '    
+ ")  /(()/( )()) )()) )    )))(   
+ ( )(_)/(_)((_) ((_)((((_)( ((_)()  
+(_(_()(_))   ((___ ((_) _ )(_()((_) 
+|_   _| _  / _   / (_)_(_|  /  | 
+  | | |   /| (_)  V / / _  | |/| | 
+  |_| |_|_ ___/ |_| /_/ _|_|  |_| 
+                                      
+
+                                           
+
+? Sat Dec 31 2022 23:41:52 GMT+0000 (Coordinated Universal Time) Troyam > search lideres
+? Sat Dec 31 2022 23:41:52 GMT+0000 (Coordinated Universal Time) Troyam > search lideres
+470:11
+ {
+  confidence: 0.004629629629629629,
+  index: 372,
+  hash: 'fbc39f9da216f015c96a3aeada15d7be916e21b7f567dfb6b9e34c6da619172e',
+  prevHash: 'f86c20751873faf2022e555e3188fcd78b2c9bbb00f871e78152c901e1b4ff23',
+  lastEdit: 1672529612941,
+  data: '⁠"Tudo o que você vê de bom em mim é Cristo. Tudo de mal, sou eu mesmo."',
+  text: [
+    'jo',
+    'calvino',
+    'f86c20751873faf2022e555e3188fcd78b2c9bbb00f871e78152c901e1b4ff23',
+    'fbc39f9da216f015c96a3aeada15d7be916e21b7f567dfb6b9e34c6da619172e',
+    '"⁠\\"Tudo o que você vê de bom em mim é Cristo. Tudo de mal, sou eu mesmo.\\""'
+  ],
+  match: '\nJoão Calvino\n'
+}
+
+       (       )     )          *     
+  '   )) ) ( /(  ( /(  (     (  '    
+ ")  /(()/( )()) )()) )    )))(   
+ ( )(_)/(_)((_) ((_)((((_)( ((_)()  
+(_(_()(_))   ((___ ((_) _ )(_()((_) 
+|_   _| _  / _   / (_)_(_|  /  | 
+  | | |   /| (_)  V / / _  | |/| | 
+  |_| |_|_ ___/ |_| /_/ _|_|  |_| 
+                                      
+
+                                           
+
+472:11
+ {
+  match: '\nJoão Calvino\n',
+  result: '⁠"Tudo o que você vê de bom em mim é Cristo. Tudo de mal, sou eu mesmo."',
+  confidence: 0.004629629629629629,
+  classifications: undefined,
+  bias: 0.9953703703703703
+}
+
+       (       )     )          *     
+  '   )) ) ( /(  ( /(  (     (  '    
+ ")  /(()/( )()) )()) )    )))(   
+ ( )(_)/(_)((_) ((_)((((_)( ((_)()  
+(_(_()(_))   ((___ ((_) _ )(_()((_) 
+|_   _| _  / _   / (_)_(_|  /  | 
+  | | |   /| (_)  V / / _  | |/| | 
+  |_| |_|_ ___/ |_| /_/ _|_|  |_| 
+                                      
+
+                                           
+
+? Sat Dec 31 2022 23:42:36 GMT+0000 (Coordinated Universal Time) Troyam > search como
+? Sat Dec 31 2022 23:42:36 GMT+0000 (Coordinated Universal Time) Troyam > search como
+470:11
+ {
+  confidence: 3.289549702593189e-17,
+  index: 386,
+  hash: 'c346fb14df46bcb9ab80a3aebe4e932496b6d82bfd22f03a00a384c622e1cb56',
+  prevHash: '9339aeb1bd8709f089ca67411769ca56f910a5af98cace3ae16db4a575f1d853',
+  lastEdit: 1672529612943,
+  data: 'Segundo o apóstolo João, Jesus Cristo disse a seguinte frase: “O meu mandamento é este: Que vos ameis uns aos outros, assim como eu vos amei. Ninguém tem maior amor do que este, de dar alguém a sua vida pelos seus amigos.”',
+  text: [
+    'jo',
+    '15',
+    '12',
+    '13',
+    '9339aeb1bd8709f089ca67411769ca56f910a5af98cace3ae16db4a575f1d853',
+    'c346fb14df46bcb9ab80a3aebe4e932496b6d82bfd22f03a00a384c622e1cb56',
+    '"Segundo o apóstolo João, Jesus Cristo disse a seguinte frase: “O meu mandamento é este: Que vos ameis uns aos outros, assim como eu vos amei. Ninguém tem maior amor do que este, de dar alguém a sua vida pelos seus amigos.”"'
+  ],
+  match: '\n(João 15 12-13).\n'
+}
+
+       (       )     )          *     
+  '   )) ) ( /(  ( /(  (     (  '    
+ ")  /(()/( )()) )()) )    )))(   
+ ( )(_)/(_)((_) ((_)((((_)( ((_)()  
+(_(_()(_))   ((___ ((_) _ )(_()((_) 
+|_   _| _  / _   / (_)_(_|  /  | 
+  | | |   /| (_)  V / / _  | |/| | 
+  |_| |_|_ ___/ |_| /_/ _|_|  |_| 
+                                      
+
+                                           
+
+472:11
+ {
+  match: '\n(João 15 12-13).\n',
+  result: 'Segundo o apóstolo João, Jesus Cristo disse a seguinte frase: “O meu mandamento é este: Que vos ameis uns aos outros, assim como eu vos amei. Ninguém tem maior amor do que este, de dar alguém a sua vida pelos seus amigos.”',
+  confidence: 3.289549702593189e-17,
+  classifications: undefined,
+  bias: 1
+}
+
+       (       )     )          *     
+  '   )) ) ( /(  ( /(  (     (  '    
+ ")  /(()/( )()) )()) )    )))(   
+ ( )(_)/(_)((_) ((_)((((_)( ((_)()  
+(_(_()(_))   ((___ ((_) _ )(_()((_) 
+|_   _| _  / _   / (_)_(_|  /  | 
+  | | |   /| (_)  V / / _  | |/| | 
+  |_| |_|_ ___/ |_| /_/ _|_|  |_| 
+                                      
+
+                                           
+
+? Sat Dec 31 2022 23:42:48 GMT+0000 (Coordinated Universal Time) Troyam > search amor
+? Sat Dec 31 2022 23:42:48 GMT+0000 (Coordinated Universal Time) Troyam > search amor
+470:11
+ {
+  confidence: 3.368498895455368e-14,
+  index: 420,
+  hash: 'be69dc59314003a1d06991ee2a73285c5d4efffbdc6541147e9e52b20e2e029a',
+  prevHash: '5262f294616395cc7d80ba4581cc3e750201996044ad01715b24406dd319c099',
+  lastEdit: 1672529612949,
+  data: 'Jesus Cristo, Ele criou o mundo, Ele transformou o mundo, Ele salvou o mundo. Tudo por amor a nós.',
+  text: [
+    'felip',
+    'guilherm',
+    'ferreira',
+    'da',
+    'silva',
+    '5262f294616395cc7d80ba4581cc3e750201996044ad01715b24406dd319c099',
+    'be69dc59314003a1d06991ee2a73285c5d4efffbdc6541147e9e52b20e2e029a',
+    '"Jesus Cristo, Ele criou o mundo, Ele transformou o mundo, Ele salvou o mundo. Tudo por amor a nós."'
+  ],
+  match: '\nFelipe Guilherme Ferreira da Silva\n'
+}
+
+       (       )     )          *     
+  '   )) ) ( /(  ( /(  (     (  '    
+ ")  /(()/( )()) )()) )    )))(   
+ ( )(_)/(_)((_) ((_)((((_)( ((_)()  
+(_(_()(_))   ((___ ((_) _ )(_()((_) 
+|_   _| _  / _   / (_)_(_|  /  | 
+  | | |   /| (_)  V / / _  | |/| | 
+  |_| |_|_ ___/ |_| /_/ _|_|  |_| 
+                                      
+
+                                           
+
+472:11
+ {
+  match: '\nFelipe Guilherme Ferreira da Silva\n',
+  result: 'Jesus Cristo, Ele criou o mundo, Ele transformou o mundo, Ele salvou o mundo. Tudo por amor a nós.',
+  confidence: 3.368498895455368e-14,
+  classifications: undefined,
+  bias: 0.9999999999999664
+}
+
+       (       )     )          *     
+  '   )) ) ( /(  ( /(  (     (  '    
+ ")  /(()/( )()) )()) )    )))(   
+ ( )(_)/(_)((_) ((_)((((_)( ((_)()  
+(_(_()(_))   ((___ ((_) _ )(_()((_) 
+|_   _| _  / _   / (_)_(_|  /  | 
+  | | |   /| (_)  V / / _  | |/| | 
+  |_| |_|_ ___/ |_| /_/ _|_|  |_| 
+                                      
+
+                                           
+
+? Sat Dec 31 2022 23:43:05 GMT+0000 (Coordinated Universal Time) Troyam > search segredos
+? Sat Dec 31 2022 23:43:05 GMT+0000 (Coordinated Universal Time) Troyam > search segredos
+470:11
+ {
+  confidence: 0.0005787037037037038,
+  index: 222,
+  hash: 'f3c3723866a7ee33e7defd11ad55c0f8e30839d66fd41257857df9ed0abf9e70',
+  prevHash: 'bb38035bbdd65abbf35adcffcb8f2b1a8a645852fb818467eae599139eef9e86',
+  lastEdit: 1672529612894,
+  data: 'Deus é paz, Deus é Luz, Deus nos fala, que a ele se chega, seguindo Jesus.',
+  text: [
+    'roberto',
+    'carlo',
+    'bb38035bbdd65abbf35adcffcb8f2b1a8a645852fb818467eae599139eef9e86',
+    'f3c3723866a7ee33e7defd11ad55c0f8e30839d66fd41257857df9ed0abf9e70',
+    '"Deus é paz, Deus é Luz, Deus nos fala, que a ele se chega, seguindo Jesus."'
+  ],
+  match: '\nRoberto Carlos\n'
+}
+
+       (       )     )          *     
+  '   )) ) ( /(  ( /(  (     (  '    
+ ")  /(()/( )()) )()) )    )))(   
+ ( )(_)/(_)((_) ((_)((((_)( ((_)()  
+(_(_()(_))   ((___ ((_) _ )(_()((_) 
+|_   _| _  / _   / (_)_(_|  /  | 
+  | | |   /| (_)  V / / _  | |/| | 
+  |_| |_|_ ___/ |_| /_/ _|_|  |_| 
+                                      
+
+                                           
+
+472:11
+ {
+  match: '\nRoberto Carlos\n',
+  result: 'Deus é paz, Deus é Luz, Deus nos fala, que a ele se chega, seguindo Jesus.',
+  confidence: 0.0005787037037037038,
+  classifications: undefined,
+  bias: 0.9994212962962963
+}
+
+       (       )     )          *     
+  '   )) ) ( /(  ( /(  (     (  '    
+ ")  /(()/( )()) )()) )    )))(   
+ ( )(_)/(_)((_) ((_)((((_)( ((_)()  
+(_(_()(_))   ((___ ((_) _ )(_()((_) 
+|_   _| _  / _   / (_)_(_|  /  | 
+  | | |   /| (_)  V / / _  | |/| | 
+  |_| |_|_ ___/ |_| /_/ _|_|  |_| 
+                                      
+
+                                           
+
+? Sat Dec 31 2022 23:43:17 GMT+0000 (Coordinated Universal Time) Troyam > search ambicao
+? Sat Dec 31 2022 23:43:17 GMT+0000 (Coordinated Universal Time) Troyam > search ambicao
+470:11
+ {
+  confidence: 0.004629629629629629,
+  index: 304,
+  hash: '4dc6f7dee51a265b76ee9132bbded0f8bdc628d047fe95a817ed5441a122485e',
+  prevHash: 'e5992ba90b05d57eb73fed35aa57eb483124f7d09a5b3e090e5af64e25b8ab05',
+  lastEdit: 1672529612906,
+  data: 'Se você não quer ouvir a verdade ninguém pode dizê-la a você.',
+  text: [
+    'film',
+    'paix',
+    'de',
+    'cristo',
+    'e5992ba90b05d57eb73fed35aa57eb483124f7d09a5b3e090e5af64e25b8ab05',
+    '4dc6f7dee51a265b76ee9132bbded0f8bdc628d047fe95a817ed5441a122485e',
+    '"Se você não quer ouvir a verdade ninguém pode dizê-la a você."'
+  ],
+  match: '\nFilme A Paixão de Cristo\n'
+}
+
+       (       )     )          *     
+  '   )) ) ( /(  ( /(  (     (  '    
+ ")  /(()/( )()) )()) )    )))(   
+ ( )(_)/(_)((_) ((_)((((_)( ((_)()  
+(_(_()(_))   ((___ ((_) _ )(_()((_) 
+|_   _| _  / _   / (_)_(_|  /  | 
+  | | |   /| (_)  V / / _  | |/| | 
+  |_| |_|_ ___/ |_| /_/ _|_|  |_| 
+                                      
+
+                                           
+
+472:11
+ {
+  match: '\nFilme A Paixão de Cristo\n',
+  result: 'Se você não quer ouvir a verdade ninguém pode dizê-la a você.',
+  confidence: 0.004629629629629629,
+  classifications: undefined,
+  bias: 0.9953703703703703
+}
+
+       (       )     )          *     
+  '   )) ) ( /(  ( /(  (     (  '    
+ ")  /(()/( )()) )()) )    )))(   
+ ( )(_)/(_)((_) ((_)((((_)( ((_)()  
+(_(_()(_))   ((___ ((_) _ )(_()((_) 
+|_   _| _  / _   / (_)_(_|  /  | 
+  | | |   /| (_)  V / / _  | |/| | 
+  |_| |_|_ ___/ |_| /_/ _|_|  |_| 
+                                      
+
+                                           
+
+? Sat Dec 31 2022 23:43:36 GMT+0000 (Coordinated Universal Time) Troyam > search verdade
+? Sat Dec 31 2022 23:43:36 GMT+0000 (Coordinated Universal Time) Troyam > search verdade
+470:11
+ {
+  confidence: 4.311678586182821e-12,
+  index: 126,
+  hash: '9bac23d4f5c6c5b67e7aead94a8f4971bd5b17c881a4eac4a6612b43d654eab6',
+  prevHash: '0f4228537fbab2b687d02fa806e3ce67107fe3acce146b0eb9b142c29ad34681',
+  lastEdit: 1672529612885,
+  data: 'Quando todos te condenarquando ninguém te escutar Ele escuta e perdoa, pois Ele é Jesus perdão! Quando todos te abandonar e ninguém te queira ver Ele te segue e procura pois Jesus é compreender! Quando todos te negarem um carinho, um beijo, um olhar, Ele te ampara e acarinha pois ser de Jesus é sempre se doar.Hei, Ele se doou por você, por nós, então vamos fazer a nossa parte Evangelizando.',
+  text: [
+    'padr',
+    'marcelo',
+    'rossi',
+    '0f4228537fbab2b687d02fa806e3ce67107fe3acce146b0eb9b142c29ad34681',
+    '9bac23d4f5c6c5b67e7aead94a8f4971bd5b17c881a4eac4a6612b43d654eab6',
+    '"Quando todos te condenarquando ninguém te escutar Ele escuta e perdoa, pois Ele é Jesus perdão! Quando todos te abandonar e ninguém te queira ver Ele te segue e procura pois Jesus é compreender! Quando todos te negarem um carinho, um beijo, um olhar, Ele te ampara e acarinha pois ser de Jesus é sempre se doar.Hei, Ele se doou por você, por nós, então vamos fazer a nossa parte Evangelizando."'
+  ],
+  match: '\nPadre Marcelo Rossi\n'
+}
+
+       (       )     )          *     
+  '   )) ) ( /(  ( /(  (     (  '    
+ ")  /(()/( )()) )()) )    )))(   
+ ( )(_)/(_)((_) ((_)((((_)( ((_)()  
+(_(_()(_))   ((___ ((_) _ )(_()((_) 
+|_   _| _  / _   / (_)_(_|  /  | 
+  | | |   /| (_)  V / / _  | |/| | 
+  |_| |_|_ ___/ |_| /_/ _|_|  |_| 
+                                      
+
+                                           
+
+472:11
+ {
+  match: '\nPadre Marcelo Rossi\n',
+  result: 'Quando todos te condenarquando ninguém te escutar Ele escuta e perdoa, pois Ele é Jesus perdão! Quando todos te abandonar e ninguém te queira ver Ele te segue e procura pois Jesus é compreender! Quando todos te negarem um carinho, um beijo, um olhar, Ele te ampara e acarinha pois ser de Jesus é sempre se doar.Hei, Ele se doou por você, por nós, então vamos fazer a nossa parte Evangelizando.',
+  confidence: 4.311678586182821e-12,
+  classifications: undefined,
+  bias: 0.9999999999956883
+}
+
+       (       )     )          *     
+  '   )) ) ( /(  ( /(  (     (  '    
+ ")  /(()/( )()) )()) )    )))(   
+ ( )(_)/(_)((_) ((_)((((_)( ((_)()  
+(_(_()(_))   ((___ ((_) _ )(_()((_) 
+|_   _| _  / _   / (_)_(_|  /  | 
+  | | |   /| (_)  V / / _  | |/| | 
+  |_| |_|_ ___/ |_| /_/ _|_|  |_| 
+                                      
+
+                                           
+
+? Sat Dec 31 2022 23:43:49 GMT+0000 (Coordinated Universal Time) Troyam > search som
+? Sat Dec 31 2022 23:43:49 GMT+0000 (Coordinated Universal Time) Troyam > search som
+470:11
+ {
+  confidence: 1.4128508391203708e-7,
+  index: 259,
+  hash: '210d6528657ee3c3ce9fab00f503337a001bbabecdccc3886bf66f101f3cf972',
+  prevHash: '8058d4becbeae84e4cc3aa7dbe00dda6929ce56c6eda208c610b4c010bf3819e',
+  lastEdit: 1672529612904,
+  data: 'Jesus perguntou: quem é minha mãe? E quem são meus irmãos?Então apontou para os discípulos e disse: Vejam! Aqui estão minha mãe e meus irmãos.',
+  text: [
+    'jesu',
+    'cristo',
+    '8058d4becbeae84e4cc3aa7dbe00dda6929ce56c6eda208c610b4c010bf3819e',
+    '210d6528657ee3c3ce9fab00f503337a001bbabecdccc3886bf66f101f3cf972',
+    '"Jesus perguntou: quem é minha mãe? E quem são meus irmãos?Então apontou para os discípulos e disse: Vejam! Aqui estão minha mãe e meus irmãos."'
+  ],
+  match: '\nJesus Cristo\n'
+}
+
+       (       )     )          *     
+  '   )) ) ( /(  ( /(  (     (  '    
+ ")  /(()/( )()) )()) )    )))(   
+ ( )(_)/(_)((_) ((_)((((_)( ((_)()  
+(_(_()(_))   ((___ ((_) _ )(_()((_) 
+|_   _| _  / _   / (_)_(_|  /  | 
+  | | |   /| (_)  V / / _  | |/| | 
+  |_| |_|_ ___/ |_| /_/ _|_|  |_| 
+                                      
+
+                                           
+
+472:11
+ {
+  match: '\nJesus Cristo\n',
+  result: 'Jesus perguntou: quem é minha mãe? E quem são meus irmãos?Então apontou para os discípulos e disse: Vejam! Aqui estão minha mãe e meus irmãos.',
+  confidence: 1.4128508391203708e-7,
+  classifications: undefined,
+  bias: 0.999999858714916
+}
+
+       (       )     )          *     
+  '   )) ) ( /(  ( /(  (     (  '    
+ ")  /(()/( )()) )()) )    )))(   
+ ( )(_)/(_)((_) ((_)((((_)( ((_)()  
+(_(_()(_))   ((___ ((_) _ )(_()((_) 
+|_   _| _  / _   / (_)_(_|  /  | 
+  | | |   /| (_)  V / / _  | |/| | 
+  |_| |_|_ ___/ |_| /_/ _|_|  |_| 
+                                      
+
+                                           
+
+? Sat Dec 31 2022 23:43:59 GMT+0000 (Coordinated Universal Time) Troyam > search chuva
+? Sat Dec 31 2022 23:43:59 GMT+0000 (Coordinated Universal Time) Troyam > search chuva
+470:11
+ {
+  confidence: 0.004629629629629629,
+  index: 311,
+  hash: 'acc089e2d67a8ea393c591cc2336c7367236bdd441fb7d7f4dac1a2367abeafe',
+  prevHash: '0f75431ca26da73049b805b0f02304b9dc136e8229c002d0fcfbd52619a3ed04',
+  lastEdit: 1672529612912,
+  data: 'O amor não correspondido dói demais...Ainda mais quando é por um amigo.É triste não poder tocá-lo, abraçá-lo, beijá-lo... E o coração é muito teimoso, mesmo sem esperança, insiste em viver esse amor. Faz poesias pra ele, mesmo arriscando perder a valiosa amizade que existe. E a resposta dele sempre é o silêncio. E é isso que dói mais... o silêncio, pq isso quer dizer nem que sim e nem que não. E a agonia fica lá perturbando, esperando algum dia a resposta dele...Resumindo: O amor não correspondido é o sentimento mais verdadeiro que existe, pois vive eternamente no coração de quem ama, esperando sem esperança ser correspondido.',
+  text: [
+    'simon',
+    'tozi',
+    'de',
+    'jesu',
+    '0f75431ca26da73049b805b0f02304b9dc136e8229c002d0fcfbd52619a3ed04',
+    'acc089e2d67a8ea393c591cc2336c7367236bdd441fb7d7f4dac1a2367abeafe',
+    '"O amor não correspondido dói demais...Ainda mais quando é por um amigo.É triste não poder tocá-lo, abraçá-lo, beijá-lo... E o coração é muito teimoso, mesmo sem esperança, insiste em viver esse amor. Faz poesias pra ele, mesmo arriscando perder a valiosa amizade que existe. E a resposta dele sempre é o silêncio. E é isso que dói mais... o silêncio, pq isso quer dizer nem que sim e nem que não. E a agonia fica lá perturbando, esperando algum dia a resposta dele...Resumindo: O amor não correspondido é o sentimento mais verdadeiro que existe, pois vive eternamente no coração de quem ama, esperando sem esperança ser correspondido."'
+  ],
+  match: '\nSimone Tozi de Jesus\n'
+}
+
+       (       )     )          *     
+  '   )) ) ( /(  ( /(  (     (  '    
+ ")  /(()/( )()) )()) )    )))(   
+ ( )(_)/(_)((_) ((_)((((_)( ((_)()  
+(_(_()(_))   ((___ ((_) _ )(_()((_) 
+|_   _| _  / _   / (_)_(_|  /  | 
+  | | |   /| (_)  V / / _  | |/| | 
+  |_| |_|_ ___/ |_| /_/ _|_|  |_| 
+                                      
+
+                                           
+
+472:11
+ {
+  match: '\nSimone Tozi de Jesus\n',
+  result: 'O amor não correspondido dói demais...Ainda mais quando é por um amigo.É triste não poder tocá-lo, abraçá-lo, beijá-lo... E o coração é muito teimoso, mesmo sem esperança, insiste em viver esse amor. Faz poesias pra ele, mesmo arriscando perder a valiosa amizade que existe. E a resposta dele sempre é o silêncio. E é isso que dói mais... o silêncio, pq isso quer dizer nem que sim e nem que não. E a agonia fica lá perturbando, esperando algum dia a resposta dele...Resumindo: O amor não correspondido é o sentimento mais verdadeiro que existe, pois vive eternamente no coração de quem ama, esperando sem esperança ser correspondido.',
+  confidence: 0.004629629629629629,
+  classifications: undefined,
+  bias: 0.9953703703703703
+}
+
+       (       )     )          *     
+  '   )) ) ( /(  ( /(  (     (  '    
+ ")  /(()/( )()) )()) )    )))(   
+ ( )(_)/(_)((_) ((_)((((_)( ((_)()  
+(_(_()(_))   ((___ ((_) _ )(_()((_) 
+|_   _| _  / _   / (_)_(_|  /  | 
+  | | |   /| (_)  V / / _  | |/| | 
+  |_| |_|_ ___/ |_| /_/ _|_|  |_| 
+                                      
+
+                                           
+
+? Sat Dec 31 2022 23:44:14 GMT+0000 (Coordinated Universal Time) Troyam > search agonia
+? Sat Dec 31 2022 23:44:14 GMT+0000 (Coordinated Universal Time) Troyam > search agonia
+470:11
+ {
+  confidence: 0.0023148148148148147,
+  index: 308,
+  hash: '1e3db135dc50933067980348dae52185c3246fd197d438317797dce4bc1b0de2',
+  prevHash: 'ce0de5475cbc6ceb65605a64db27e6ac76e12725ab24da9879a55020a8148e08',
+  lastEdit: 1672529612911,
+  data: 'Jesus Cristo o caminho a verdade e a vida, meu advogado para com o pai',
+  text: [
+    'senhor',
+    'salvador',
+    'jesu',
+    'cristo',
+    'ce0de5475cbc6ceb65605a64db27e6ac76e12725ab24da9879a55020a8148e08',
+    '1e3db135dc50933067980348dae52185c3246fd197d438317797dce4bc1b0de2',
+    '"Jesus Cristo o caminho a verdade e a vida, meu advogado para com o pai"'
+  ],
+  match: '\nSenhor e Salvador Jesus Cristo\n'
+}
+
+       (       )     )          *     
+  '   )) ) ( /(  ( /(  (     (  '    
+ ")  /(()/( )()) )()) )    )))(   
+ ( )(_)/(_)((_) ((_)((((_)( ((_)()  
+(_(_()(_))   ((___ ((_) _ )(_()((_) 
+|_   _| _  / _   / (_)_(_|  /  | 
+  | | |   /| (_)  V / / _  | |/| | 
+  |_| |_|_ ___/ |_| /_/ _|_|  |_| 
+                                      
+
+                                           
+
+472:11
+ {
+  match: '\nSenhor e Salvador Jesus Cristo\n',
+  result: 'Jesus Cristo o caminho a verdade e a vida, meu advogado para com o pai',
+  confidence: 0.0023148148148148147,
+  classifications: undefined,
+  bias: 0.9976851851851852
+}
+
+       (       )     )          *     
+  '   )) ) ( /(  ( /(  (     (  '    
+ ")  /(()/( )()) )()) )    )))(   
+ ( )(_)/(_)((_) ((_)((((_)( ((_)()  
+(_(_()(_))   ((___ ((_) _ )(_()((_) 
+|_   _| _  / _   / (_)_(_|  /  | 
+  | | |   /| (_)  V / / _  | |/| | 
+  |_| |_|_ ___/ |_| /_/ _|_|  |_| 
+                                      
+
+                                           
+
+? Sat Dec 31 2022 23:45:11 GMT+0000 (Coordinated Universal Time) Troyam > search paraiso
+? Sat Dec 31 2022 23:45:11 GMT+0000 (Coordinated Universal Time) Troyam > search paraiso
+470:11
+ {
+  confidence: 0.004629629629629629,
+  index: 131,
+  hash: '40236cab2c945eb054f64586b9e36c833653b0d27fc6e8a731311bee136b92ba',
+  prevHash: '61e45e7f2c065cb421c0ab52620da0b59586007ac9a36ad137fc1444a5e06933',
+  lastEdit: 1672529612885,
+  data: 'Veja, se eu o enviar para dormir no meio dos lobos, seja esperto como as serpentes e inofensivo como os pombos.',
+  text: [
+    'jesu',
+    'cristo',
+    '61e45e7f2c065cb421c0ab52620da0b59586007ac9a36ad137fc1444a5e06933',
+    '40236cab2c945eb054f64586b9e36c833653b0d27fc6e8a731311bee136b92ba',
+    '"Veja, se eu o enviar para dormir no meio dos lobos, seja esperto como as serpentes e inofensivo como os pombos."'
+  ],
+  match: '\nJesus Cristo\n'
+}
+
+       (       )     )          *     
+  '   )) ) ( /(  ( /(  (     (  '    
+ ")  /(()/( )()) )()) )    )))(   
+ ( )(_)/(_)((_) ((_)((((_)( ((_)()  
+(_(_()(_))   ((___ ((_) _ )(_()((_) 
+|_   _| _  / _   / (_)_(_|  /  | 
+  | | |   /| (_)  V / / _  | |/| | 
+  |_| |_|_ ___/ |_| /_/ _|_|  |_| 
+                                      
+
+                                           
+
+472:11
+ {
+  match: '\nJesus Cristo\n',
+  result: 'Veja, se eu o enviar para dormir no meio dos lobos, seja esperto como as serpentes e inofensivo como os pombos.',
+  confidence: 0.004629629629629629,
+  classifications: undefined,
+  bias: 0.9953703703703703
+}
+
+       (       )     )          *     
+  '   )) ) ( /(  ( /(  (     (  '    
+ ")  /(()/( )()) )()) )    )))(   
+ ( )(_)/(_)((_) ((_)((((_)( ((_)()  
+(_(_()(_))   ((___ ((_) _ )(_()((_) 
+|_   _| _  / _   / (_)_(_|  /  | 
+  | | |   /| (_)  V / / _  | |/| | 
+  |_| |_|_ ___/ |_| /_/ _|_|  |_| 
+                                      
+
+                                           
+
+? Sat Dec 31 2022 23:45:23 GMT+0000 (Coordinated Universal Time) Troyam > search obrigado
+? Sat Dec 31 2022 23:45:23 GMT+0000 (Coordinated Universal Time) Troyam > search obrigado
+470:11
+ {
+  confidence: 0.004629629629629629,
+  index: 428,
+  hash: '7f3ca7686f4b4c5fe5f73b394cd93f3dc82cf8b992dae1a11bd12a19f174d4ce',
+  prevHash: '733db2fdd8b4730f7ffdd5cb3d2bb1848d9bfac849248239f51a33fcade88ef3',
+  lastEdit: 1672529612950,
+  data: 'Fortaleça os seus princípios e valores em Jesus Cristo, eles serão auxílio nesse século de tanta misticidade.',
+  text: [
+    'vanessa',
+    'vasconcelo',
+    '733db2fdd8b4730f7ffdd5cb3d2bb1848d9bfac849248239f51a33fcade88ef3',
+    '7f3ca7686f4b4c5fe5f73b394cd93f3dc82cf8b992dae1a11bd12a19f174d4ce',
+    '"Fortaleça os seus princípios e valores em Jesus Cristo, eles serão auxílio nesse século de tanta misticidade."'
+  ],
+  match: '\nVanessa Vasconcelos\n'
+}
+
+       (       )     )          *     
+  '   )) ) ( /(  ( /(  (     (  '    
+ ")  /(()/( )()) )()) )    )))(   
+ ( )(_)/(_)((_) ((_)((((_)( ((_)()  
+(_(_()(_))   ((___ ((_) _ )(_()((_) 
+|_   _| _  / _   / (_)_(_|  /  | 
+  | | |   /| (_)  V / / _  | |/| | 
+  |_| |_|_ ___/ |_| /_/ _|_|  |_| 
+                                      
+
+                                           
+
+472:11
+ {
+  match: '\nVanessa Vasconcelos\n',
+  result: 'Fortaleça os seus princípios e valores em Jesus Cristo, eles serão auxílio nesse século de tanta misticidade.',
+  confidence: 0.004629629629629629,
+  classifications: undefined,
+  bias: 0.9953703703703703
+}
+
+       (       )     )          *     
+  '   )) ) ( /(  ( /(  (     (  '    
+ ")  /(()/( )()) )()) )    )))(   
+ ( )(_)/(_)((_) ((_)((((_)( ((_)()  
+(_(_()(_))   ((___ ((_) _ )(_()((_) 
+|_   _| _  / _   / (_)_(_|  /  | 
+  | | |   /| (_)  V / / _  | |/| | 
+  |_| |_|_ ___/ |_| /_/ _|_|  |_| 
+                                      
+
+                                           
+
+? Sat Dec 31 2022 23:45:43 GMT+0000 (Coordinated Universal Time) Troyam > search o que e principio
+? Sat Dec 31 2022 23:45:43 GMT+0000 (Coordinated Universal Time) Troyam > search o que e principio
+470:11
+ {
+  confidence: 6.342040940411301e-197,
+  index: 400,
+  hash: '17c30da3317c054d135a0115332935810b5000b08dc3f0e63a62894ffbb0036e',
+  prevHash: '9d43ecadc9e4c04a6524f24cb8d619bec737696405c8539197d9c7675a656a06',
+  lastEdit: 1672529612945,
+  data: 'Tudo que Deus faz, tem um motivo, uma razão, um sentido Uma morte gerou vida, que foi Jesus Cristo morrer por nós,e nos deu ali na cruz, vida e graça, e por  ele e sua graça e misericóridia  estamos aqui.',
+  text: [
+    'juliana',
+    'louren',
+    '9d43ecadc9e4c04a6524f24cb8d619bec737696405c8539197d9c7675a656a06',
+    '17c30da3317c054d135a0115332935810b5000b08dc3f0e63a62894ffbb0036e',
+    '"Tudo que Deus faz, tem um motivo, uma razão, um sentido Uma morte gerou vida, que foi Jesus Cristo morrer por nós,e nos deu ali na cruz, vida e graça, e por  ele e sua graça e misericóridia  estamos aqui."'
+  ],
+  match: '\nJuliana Lourenço\n'
+}
+
+       (       )     )          *     
+  '   )) ) ( /(  ( /(  (     (  '    
+ ")  /(()/( )()) )()) )    )))(   
+ ( )(_)/(_)((_) ((_)((((_)( ((_)()  
+(_(_()(_))   ((___ ((_) _ )(_()((_) 
+|_   _| _  / _   / (_)_(_|  /  | 
+  | | |   /| (_)  V / / _  | |/| | 
+  |_| |_|_ ___/ |_| /_/ _|_|  |_| 
+                                      
+
+                                           
+
+472:11
+ {
+  match: '\nJuliana Lourenço\n',
+  result: 'Tudo que Deus faz, tem um motivo, uma razão, um sentido Uma morte gerou vida, que foi Jesus Cristo morrer por nós,e nos deu ali na cruz, vida e graça, e por  ele e sua graça e misericóridia  estamos aqui.',
+  confidence: 6.342040940411301e-197,
+  classifications: undefined,
+  bias: 1
+}
+
+       (       )     )          *     
+  '   )) ) ( /(  ( /(  (     (  '    
+ ")  /(()/( )()) )()) )    )))(   
+ ( )(_)/(_)((_) ((_)((((_)( ((_)()  
+(_(_()(_))   ((___ ((_) _ )(_()((_) 
+|_   _| _  / _   / (_)_(_|  /  | 
+  | | |   /| (_)  V / / _  | |/| | 
+  |_| |_|_ ___/ |_| /_/ _|_|  |_| 
+                                      
+
+                                           
+
+? Sat Dec 31 2022 23:45:55 GMT+0000 (Coordinated Universal Time) Troyam > search cruz
+? Sat Dec 31 2022 23:45:55 GMT+0000 (Coordinated Universal Time) Troyam > search cruz
+470:11
+ {
+  confidence: 2.8257016782407416e-7,
+  index: 326,
+  hash: '003a987005e5262307bc26e31edcba85ebf1026f5c0d08decaca97fdc62efd4a',
+  prevHash: '234165ca3bbf807a65951fe4e883cdd26609dff3426af3d61bab379998c68390',
+  lastEdit: 1672529612913,
+  data: 'Poeta, por que choras?Que triste melancolia.É que minh’alma ignoraO esplendor da alegria.Este sorriso que em mim emana,A minha própria alma engana',
+  text: [
+    'carolina',
+    'maria',
+    'de',
+    'jesu',
+    '234165ca3bbf807a65951fe4e883cdd26609dff3426af3d61bab379998c68390',
+    '003a987005e5262307bc26e31edcba85ebf1026f5c0d08decaca97fdc62efd4a',
+    '"Poeta, por que choras?Que triste melancolia.É que minh’alma ignoraO esplendor da alegria.Este sorriso que em mim emana,A minha própria alma engana"'
+  ],
+  match: '\nCarolina Maria de Jesus\n'
+}
+
+       (       )     )          *     
+  '   )) ) ( /(  ( /(  (     (  '    
+ ")  /(()/( )()) )()) )    )))(   
+ ( )(_)/(_)((_) ((_)((((_)( ((_)()  
+(_(_()(_))   ((___ ((_) _ )(_()((_) 
+|_   _| _  / _   / (_)_(_|  /  | 
+  | | |   /| (_)  V / / _  | |/| | 
+  |_| |_|_ ___/ |_| /_/ _|_|  |_| 
+                                      
+
+                                           
+
+472:11
+ {
+  match: '\nCarolina Maria de Jesus\n',
+  result: 'Poeta, por que choras?Que triste melancolia.É que minh’alma ignoraO esplendor da alegria.Este sorriso que em mim emana,A minha própria alma engana',
+  confidence: 2.8257016782407416e-7,
+  classifications: undefined,
+  bias: 0.9999997174298322
+}
+
+       (       )     )          *     
+  '   )) ) ( /(  ( /(  (     (  '    
+ ")  /(()/( )()) )()) )    )))(   
+ ( )(_)/(_)((_) ((_)((((_)( ((_)()  
+(_(_()(_))   ((___ ((_) _ )(_()((_) 
+|_   _| _  / _   / (_)_(_|  /  | 
+  | | |   /| (_)  V / / _  | |/| | 
+  |_| |_|_ ___/ |_| /_/ _|_|  |_| 
+                                      
+
+                                           
+
+? Sat Dec 31 2022 23:46:11 GMT+0000 (Coordinated Universal Time) Troyam > search lugar
+? Sat Dec 31 2022 23:46:11 GMT+0000 (Coordinated Universal Time) Troyam > search lugar
+470:11
+ {
+  confidence: 0.000036168981481481486,
+  index: 163,
+  hash: 'c4faeaddc6a17e53bb3e081f9ec8408c449afe3867f7e1340e6534feaf0c04bc',
+  prevHash: '14eca53ef9b0e363e1007c0296feda5b0d595317d38f1b3be29a3fd5b49a5dd2',
+  lastEdit: 1672529612889,
+  data: 'Eu sou a luz do mundo. Quem me segue, nunca andará em trevas, mas terá a luz da vida.João 8:12',
+  text: [
+    'jesu',
+    'cristo',
+    '14eca53ef9b0e363e1007c0296feda5b0d595317d38f1b3be29a3fd5b49a5dd2',
+    'c4faeaddc6a17e53bb3e081f9ec8408c449afe3867f7e1340e6534feaf0c04bc',
+    '"Eu sou a luz do mundo. Quem me segue, nunca andará em trevas, mas terá a luz da vida.João 8:12"'
+  ],
+  match: '\nJesus Cristo\n'
+}
+
+       (       )     )          *     
+  '   )) ) ( /(  ( /(  (     (  '    
+ ")  /(()/( )()) )()) )    )))(   
+ ( )(_)/(_)((_) ((_)((((_)( ((_)()  
+(_(_()(_))   ((___ ((_) _ )(_()((_) 
+|_   _| _  / _   / (_)_(_|  /  | 
+  | | |   /| (_)  V / / _  | |/| | 
+  |_| |_|_ ___/ |_| /_/ _|_|  |_| 
+                                      
+
+                                           
+
+472:11
+ {
+  match: '\nJesus Cristo\n',
+  result: 'Eu sou a luz do mundo. Quem me segue, nunca andará em trevas, mas terá a luz da vida.João 8:12',
+  confidence: 0.000036168981481481486,
+  classifications: undefined,
+  bias: 0.9999638310185185
+}
+
+       (       )     )          *     
+  '   )) ) ( /(  ( /(  (     (  '    
+ ")  /(()/( )()) )()) )    )))(   
+ ( )(_)/(_)((_) ((_)((((_)( ((_)()  
+(_(_()(_))   ((___ ((_) _ )(_()((_) 
+|_   _| _  / _   / (_)_(_|  /  | 
+  | | |   /| (_)  V / / _  | |/| | 
+  |_| |_|_ ___/ |_| /_/ _|_|  |_| 
+                                      
+
+                                           
+
+? Sat Dec 31 2022 23:46:25 GMT+0000 (Coordinated Universal Time) Troyam > search comemorar
+? Sat Dec 31 2022 23:46:25 GMT+0000 (Coordinated Universal Time) Troyam > search comemorar
+470:11
+ {
+  confidence: 0.004629629629629629,
+  index: 84,
+  hash: 'f4e0e77fc7de86c3d3238763d9587a3911907fd738818d216d1875ab400742ad',
+  prevHash: '34ba3e2f464d0e0c36d6582d1ca219b9a4a87259eebdac32fa2540aaa4c91fd0',
+  lastEdit: 1672529612873,
+  data: 'Quem não está comigo, está contra mim; e aquele que comigo não colhe, espalha.',
+  text: [
+    'jesu',
+    'cristo',
+    '34ba3e2f464d0e0c36d6582d1ca219b9a4a87259eebdac32fa2540aaa4c91fd0',
+    'f4e0e77fc7de86c3d3238763d9587a3911907fd738818d216d1875ab400742ad',
+    '"Quem não está comigo, está contra mim; e aquele que comigo não colhe, espalha."'
+  ],
+  match: '\nJesus Cristo\n'
+}
+
+       (       )     )          *     
+  '   )) ) ( /(  ( /(  (     (  '    
+ ")  /(()/( )()) )()) )    )))(   
+ ( )(_)/(_)((_) ((_)((((_)( ((_)()  
+(_(_()(_))   ((___ ((_) _ )(_()((_) 
+|_   _| _  / _   / (_)_(_|  /  | 
+  | | |   /| (_)  V / / _  | |/| | 
+  |_| |_|_ ___/ |_| /_/ _|_|  |_| 
+                                      
+
+                                           
+
+472:11
+ {
+  match: '\nJesus Cristo\n',
+  result: 'Quem não está comigo, está contra mim; e aquele que comigo não colhe, espalha.',
+  confidence: 0.004629629629629629,
+  classifications: undefined,
+  bias: 0.9953703703703703
+}
+
+       (       )     )          *     
+  '   )) ) ( /(  ( /(  (     (  '    
+ ")  /(()/( )()) )()) )    )))(   
+ ( )(_)/(_)((_) ((_)((((_)( ((_)()  
+(_(_()(_))   ((___ ((_) _ )(_()((_) 
+|_   _| _  / _   / (_)_(_|  /  | 
+  | | |   /| (_)  V / / _  | |/| | 
+  |_| |_|_ ___/ |_| /_/ _|_|  |_| 
+                                      
+
+                                           
+
+? Sat Dec 31 2022 23:47:32 GMT+0000 (Coordinated Universal Time) Troyam > 
