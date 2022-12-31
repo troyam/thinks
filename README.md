@@ -1,0 +1,2 @@
+# thinks
+Logs from AI
